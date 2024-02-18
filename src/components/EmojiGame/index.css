@@ -1,0 +1,14 @@
+.bg-container {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  margin: 0px;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.emoji-container {
+  display: flex;
+  padding: 80px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
